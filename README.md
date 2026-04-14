@@ -1,5 +1,3 @@
-# AI-Powered-Database-Performance-Analyzer
-
 # AI-Powered Database Performance Analyzer
 
 A small full-stack app to analyze SQL query performance using **Postgres/TimescaleDB**.
